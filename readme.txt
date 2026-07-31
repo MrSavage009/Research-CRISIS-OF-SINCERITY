@@ -1,14 +1,14 @@
-# CHAPTER 1: THE CRISIS OF SINCERITY – WHEN THE RESEARCH ECONOMY DESTROYS THE SOUL OF INQUIRY
+ # CHAPTER 1: THE CRISIS OF SINCERITY – WHEN THE RESEARCH ECONOMY DESTROYS THE SOUL OF INQUIRY
 
 ---
 
 ## EPIGRAPH FOR CHAPTER 1
 
-*"The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'"* — Isaac Asimov
-
-*"Science is the belief in the ignorance of experts."* — Richard Feynman
-
-*"We have not inherited the earth from our fathers; we are borrowing it from our children."* — Native American proverb (adapted)
+> *"The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'"* — Isaac Asimov
+>
+> *"Science is the belief in the ignorance of experts."* — Richard Feynman
+>
+> *"We have not inherited the earth from our fathers; we are borrowing it from our children."* — Native American proverb (adapted)
 
 ---
 
@@ -60,7 +60,9 @@ The history of scientific reform is a history of reactionary symptom reduction. 
 
 This pattern can be formalized as a sequence:
 
-**Legitimate Problem → Reactionary Solution → Unintended Pathology → Reactionary Solution → ...**
+```
+Legitimate Problem → Reactionary Solution → Unintended Pathology → Reactionary Solution → ...
+```
 
 Each fix creates a new problem that requires another fix. It is the "Whac-A-Mole" of scientific reform. We hammer down one methodological problem only to see another pop up in its place. And we never ask the fundamental question: why are we playing this game at all?
 
@@ -185,7 +187,7 @@ The problem we face is not merely a set of methodological issues that can be fix
 
 We have confused the map for the territory—methodology for understanding. We have come to believe that rigorous methodology is the same as genuine inquiry. We have reified statistical procedures, treating them as ends rather than means.
 
-The story of the drunkard searching under the lamppost is a parable for our times. A drunkard is searching for his keys on the ground under a streetlight. A passerby asks, "Did you lose them here?" The drunkard replies, "No, I lost them in the dark over there, but the light is better here."
+> The story of the drunkard searching under the lamppost is a parable for our times. A drunkard is searching for his keys on the ground under a streetlight. A passerby asks, "Did you lose them here?" The drunkard replies, "No, I lost them in the dark over there, but the light is better here."
 
 This is what we have done with methodology. We have focused our attention on what can be measured, what can be counted, what can be statistically analyzed—because the light is better there. We have neglected the deeper questions, the messy observations, the qualitative insights—because they are in the dark. We have mistaken methodological rigor for intellectual rigor. We have confused the map for the territory.
 
@@ -245,37 +247,4 @@ The ghost we seek is our own lost spirit—the spirit of curiosity, courage, hum
 
 ---
 
-**Author's Note:** This chapter establishes the foundational argument of the entire work: that the crisis in modern science is not primarily methodological but existential and motivational. It introduces the concept of "reactionary symptom reduction," traces the historical erosion of scientific sincerity through the credential arms race, the grant economy, and publication pressure, and points to the patronage models of the past as evidence that freedom, not constraint, produces foundational discovery. The chapter concludes by outlining the structure of the work and inviting the reader to join in the re-imagining of science.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> **Author's Note:** This chapter establishes the foundational argument of the entire work: that the crisis in modern science is not primarily methodological but existential and motivational. It introduces the concept of "reactionary symptom reduction," traces the historical erosion of scientific sincerity through the credential arms race, the grant economy, and publication pressure, and points to the patronage models of the past as evidence that freedom, not constraint, produces foundational discovery. The chapter concludes by outlining the structure of the work and inviting the reader to join in the re-imagining of science.
